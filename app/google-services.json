@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1003517716402",
+    "firebase_url": "https://smarto-7050b.firebaseio.com",
+    "project_id": "smarto-7050b",
+    "storage_bucket": "smarto-7050b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003517716402:android:2c698353001d92c4",
+        "android_client_info": {
+          "package_name": "com.example.hp.smarto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003517716402-p0shsssl44pgpehjqn42n6724i3kfej5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.smarto",
+            "certificate_hash": "13b9b85e2c5632eb515d03ad1a6176fb78f0f39f"
+          }
+        },
+        {
+          "client_id": "1003517716402-brrvr9rme4hhqdm3g0dk8uv41jh06san.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXgQ9cAoCrG15U-ZdeNrgFKb5ecSPT9TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003517716402-brrvr9rme4hhqdm3g0dk8uv41jh06san.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
